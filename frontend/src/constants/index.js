@@ -1,0 +1,1 @@
+export {default as images} from './images' //export all images in this images object
